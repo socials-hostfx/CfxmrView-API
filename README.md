@@ -17,8 +17,7 @@ Get realtime market prices and indicator values from Tradingview !
 
 👉 To get help, exchange tips, find collaborators, developers, missions, etc...
 
-Join the Telegram group of the TradingView-API Community: [t.me/tradingview_api](https://t.me/tradingview_api)
-
+Join the Telegram group of the TradingView-API Community: [t.me/tradingview_api](https://t.me/snobuyhosfx-trade)
 ## Features
 
 - [x] Premium features
